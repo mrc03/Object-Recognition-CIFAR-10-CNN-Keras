@@ -20,4 +20,4 @@ The training set contains of 50000 images of 32*32 pixels each. Similarly the va
 
 I have used a self laid ConvNet to correctly classify the images into 10 classes each pertaining to one object. I have also used data augmentation using the ImageGenerator class provided in the Keras library to further increase the size of the training set and thus reduce overfitting chances. 
 
-Finally I have used the ConvNet to make predictions onto the validation set and achieved a decent accuracy of near about 85%.
+Finally I have used the ConvNet to make  predictions onto the validation set and achieved a decent accuracy of near about 85%.
